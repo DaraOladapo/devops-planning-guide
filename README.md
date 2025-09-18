@@ -11,9 +11,9 @@ This DevOps Planning Guide is organized by business size to provide the most rel
 
 | Business Size | Team Size | Annual Revenue | Recommended Guide |
 |---------------|-----------|----------------|-------------------|
-| **Small Business** | 1-50 employees | < $10M | [Small Business DevOps Guide](./Small-Business-Guide/) |
-| **Medium Business** | 50-500 employees | $10M - $100M | [Medium Business DevOps Guide](./Medium-Business-Guide/) |
-| **Large Business** | 500+ employees | $100M+ | [Large Business DevOps Guide](./Large-Business-Guide/) |
+| **Small Business** | 1-50 employees | < $10M | [Small Business DevOps Guide](./small-business-guide/) |
+| **Medium Business** | 50-500 employees | $10M - $100M | [Medium Business DevOps Guide](./medium-business-guide/) |
+| **Enterprise** | 500+ employees | $100M+ | [Enterprise DevOps Guide](./enterprise-guide/) |
 
 ### 📚 What Each Guide Covers
 
@@ -38,7 +38,7 @@ Feedback| Monitoring and feedback systems appropriate for your scale
 
 ---
 
-**Note**: This repository has been reorganized by business size. The original section-based structure (01-Introduction, 02-Starting your DevOps Journey, etc.) is being replaced with business-size specific guides that provide more targeted, actionable advice.
+**Note**: This repository has been reorganized by business size. The original section-based structure (01-introduction, 02-starting-your-devops-journey, etc.) is being replaced with business-size specific guides that provide more targeted, actionable advice.
 
 ## 🤝 Contributing
 
