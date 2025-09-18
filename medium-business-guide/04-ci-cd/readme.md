@@ -710,7 +710,7 @@ notifications:
 ## Next Steps
 
 With enterprise CI/CD implemented, continue to:
-[Test Management →](../05-Test-Management/)
+[Test Management →](../05-test-management/)
 
 ---
-*[← Previous: Process](../03-Process/) | [Back to Medium Business Guide](../README.md)*
+*[← Previous: Process](../03-process/) | [Back to Medium Business Guide](../README.md)*

@@ -197,7 +197,7 @@ test('user can sign up and log in', async ({ page }) => {
 ## Next Steps
 
 With testing practices in place, continue to:
-[Building DevOps Culture →](../06-Culture/)
+[Building DevOps Culture →](../06-culture/)
 
 ---
-*[← Previous: CI/CD](../04-CI-CD/) | [Back to Small Business Guide](../README.md)*
+*[← Previous: CI/CD](../04-ci-cd/) | [Back to Small Business Guide](../README.md)*

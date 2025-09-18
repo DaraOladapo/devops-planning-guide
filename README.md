@@ -38,7 +38,7 @@ Feedback| Monitoring and feedback systems appropriate for your scale
 
 ---
 
-**Note**: This repository has been reorganized by business size. The original section-based structure (01-Introduction, 02-Starting your DevOps Journey, etc.) is being replaced with business-size specific guides that provide more targeted, actionable advice.
+**Note**: This repository has been reorganized by business size. The original section-based structure (01-introduction, 02-starting-your-devops-journey, etc.) is being replaced with business-size specific guides that provide more targeted, actionable advice.
 
 ## 🤝 Contributing
 

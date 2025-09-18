@@ -282,7 +282,7 @@ jobs:
 ## Next Steps
 
 Once your CI/CD pipeline is working:
-[Test Management →](../05-Test-Management/)
+[Test Management →](../05-test-management/)
 
 ---
-*[← Previous: Process](../03-Process/) | [Back to Small Business Guide](../README.md)*
+*[← Previous: Process](../03-process/) | [Back to Small Business Guide](../README.md)*

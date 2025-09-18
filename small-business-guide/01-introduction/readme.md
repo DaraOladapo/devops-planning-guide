@@ -79,7 +79,7 @@ For small businesses starting with DevOps:
 ## Next Steps
 
 Ready to begin your DevOps journey? Continue to:
-[Starting Your DevOps Journey →](../02-Starting-Your-DevOps-Journey/)
+[Starting Your DevOps Journey →](../02-starting-your-devops-journey/)
 
 ---
 *[← Back to Small Business Guide](../README.md)*

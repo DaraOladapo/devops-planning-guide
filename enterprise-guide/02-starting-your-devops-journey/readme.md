@@ -394,7 +394,7 @@ compliance_frameworks:
 ## Next Steps
 
 With your enterprise transformation strategy defined, continue to:
-[Process Management →](../03-Process/)
+[Process Management →](../03-process/)
 
 ---
-*[← Previous: Introduction](../01-Introduction/) | [Back to Enterprise Guide](../README.md)*
+*[← Previous: Introduction](../01-introduction/) | [Back to Enterprise Guide](../README.md)*

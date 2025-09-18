@@ -183,7 +183,7 @@ Brief description of changes
 ## Next Steps
 
 With solid processes in place, you're ready for:
-[CI/CD Implementation →](../04-CI-CD/)
+[CI/CD Implementation →](../04-ci-cd/)
 
 ---
-*[← Previous: Starting Your Journey](../02-Starting-Your-DevOps-Journey/) | [Back to Small Business Guide](../README.md)*
+*[← Previous: Starting Your Journey](../02-starting-your-devops-journey/) | [Back to Small Business Guide](../README.md)*

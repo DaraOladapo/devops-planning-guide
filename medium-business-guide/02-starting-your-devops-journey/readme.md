@@ -319,7 +319,7 @@ module "monitoring" {
 ## Next Steps
 
 With your DevOps journey planned, continue to:
-[Process Management →](../03-Process/)
+[Process Management →](../03-process/)
 
 ---
-*[← Previous: Introduction](../01-Introduction/) | [Back to Medium Business Guide](../README.md)*
+*[← Previous: Introduction](../01-introduction/) | [Back to Medium Business Guide](../README.md)*

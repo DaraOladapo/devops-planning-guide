@@ -253,7 +253,7 @@ Enterprises require DevOps practices that can handle massive scale, complex orga
 ## Next Steps
 
 Ready to begin enterprise DevOps transformation? Continue to:
-[Starting Your DevOps Journey →](../02-Starting-Your-DevOps-Journey/)
+[Starting Your DevOps Journey →](../02-starting-your-devops-journey/)
 
 ---
 *[← Back to Enterprise Guide](../README.md)*

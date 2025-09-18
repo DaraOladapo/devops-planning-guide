@@ -197,7 +197,7 @@ Medium businesses face unique challenges: multiple teams, complex systems, compl
 ## Next Steps
 
 Ready to transform your medium business with DevOps? Continue to:
-[Starting Your DevOps Journey →](../02-Starting-Your-DevOps-Journey/)
+[Starting Your DevOps Journey →](../02-starting-your-devops-journey/)
 
 ---
 *[← Back to Medium Business Guide](../README.md)*
